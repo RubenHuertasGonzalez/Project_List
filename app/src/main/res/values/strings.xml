@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project_List</string>
+    <string name="afegir">AFEGIR</string>
+    <string name="seg_ent">SEGÜENT</string>
+    <string name="escriure_edat">Escriure edat</string>
+    <string name="escriure_nombre">Escriure nombre</string>
+    <string name="llista">LLISTA</string>
+    <string name="volver">VOLVER</string>
+</resources>
